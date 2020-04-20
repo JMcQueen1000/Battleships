@@ -106,7 +106,7 @@ public class Ship
         _tiles = new List<Tile>();
 
         // gets the ship size from the enumarator
-        _sizeOfShip = _shipName;
+        _sizeOfShip = (int)(_shipName);
     }
 
     /// <summary>
