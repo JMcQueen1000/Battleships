@@ -79,7 +79,13 @@ static class DeploymentController
             }
             else if (UtilityFunctions.IsMouseInRectangle(UP_DOWN_BUTTON_LEFT, TOP_BUTTONS_TOP, DIR_BUTTONS_WIDTH, TOP_BUTTONS_HEIGHT))
             {
-                _currentDirection = Direction.LeftRight;
+                //OLD CODE - caused functional error
+                // _currentDirection = Direction.LeftRight;
+
+
+                //Fixed functional issue that incorrectly changed the ship orientation
+                //NEW CODE THAT WORKS - JAYDEN
+                _currentDirection = Direction.UpDown;
 
             }
             else if (UtilityFunctions.IsMouseInRectangle(LEFT_RIGHT_BUTTON_LEFT, TOP_BUTTONS_TOP, DIR_BUTTONS_WIDTH, TOP_BUTTONS_HEIGHT))
