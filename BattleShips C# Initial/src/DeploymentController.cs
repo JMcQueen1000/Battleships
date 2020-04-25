@@ -164,13 +164,13 @@ static class DeploymentController
                 if (sn == _selectedShip)
                 {
                     SwinGame.DrawBitmap(GameResources.GameImage("SelectedShip"), SHIPS_LEFT, SHIPS_TOP + i * SHIPS_HEIGHT);
-                    SwinGame.FillRectangle(Color.LightBlue, SHIPS_LEFT, SHIPS_TOP + i * SHIPS_HEIGHT, SHIPS_WIDTH, SHIPS_HEIGHT);
+                    SwinGame.FillRectangle(Color.Transparent, SHIPS_LEFT, SHIPS_TOP + i * SHIPS_HEIGHT, SHIPS_WIDTH, SHIPS_HEIGHT);
                 }
                 else
-                    SwinGame.FillRectangle(Color.Gray, SHIPS_LEFT, SHIPS_TOP + i * SHIPS_HEIGHT, SHIPS_WIDTH, SHIPS_HEIGHT);
+                    SwinGame.FillRectangle(Color.Transparent, SHIPS_LEFT, SHIPS_TOP + i * SHIPS_HEIGHT, SHIPS_WIDTH, SHIPS_HEIGHT);
 
-                SwinGame.DrawRectangle(Color.Black, SHIPS_LEFT, SHIPS_TOP + i * SHIPS_HEIGHT, SHIPS_WIDTH, SHIPS_HEIGHT);
-                SwinGame.DrawText(sn.ToString(), Color.Black, GameResources.GameFont("Courier"), SHIPS_LEFT + TEXT_OFFSET, SHIPS_TOP + i * SHIPS_HEIGHT);
+                SwinGame.DrawRectangle(Color.Transparent, SHIPS_LEFT, SHIPS_TOP + i * SHIPS_HEIGHT, SHIPS_WIDTH, SHIPS_HEIGHT);
+                SwinGame.DrawText(sn.ToString(), Color.Transparent, GameResources.GameFont("Courier"), SHIPS_LEFT + TEXT_OFFSET, SHIPS_TOP + i * SHIPS_HEIGHT);
             }
         }
 
@@ -178,7 +178,7 @@ static class DeploymentController
         {
             SwinGame.DrawBitmap(GameResources.GameImage("PlayButton"), PLAY_BUTTON_LEFT, TOP_BUTTONS_TOP);
             //SwinGame.FillRectangle(Color.LightBlue, PLAY_BUTTON_LEFT, PLAY_BUTTON_TOP, PLAY_BUTTON_WIDTH, PLAY_BUTTON_HEIGHT);
-            SwinGame.DrawText("PLAY", Color.Black, GameResources.GameFont("Courier"), PLAY_BUTTON_LEFT + TEXT_OFFSET, TOP_BUTTONS_TOP);
+            SwinGame.DrawText("PLAY", Color.White, GameResources.GameFont("Courier"), PLAY_BUTTON_LEFT + TEXT_OFFSET, TOP_BUTTONS_TOP);
         }
 
         SwinGame.DrawBitmap(GameResources.GameImage("RandomButton"), RANDOM_BUTTON_LEFT, TOP_BUTTONS_TOP);
