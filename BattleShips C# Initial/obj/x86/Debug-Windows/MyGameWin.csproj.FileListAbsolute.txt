@@ -87,6 +87,7 @@ C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 
 C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\SwinGameStart.ogg
 C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\watershot.wav
 C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\winner.wav
+<<<<<<< HEAD
 C:\Users\Stuart\Documents\Programming\Battleships\BattleShips C# Initial\bin\Debug\Resources\animations\splash.txt
 C:\Users\Stuart\Documents\Programming\Battleships\BattleShips C# Initial\bin\Debug\Resources\animations\startup.txt
 C:\Users\Stuart\Documents\Programming\Battleships\BattleShips C# Initial\bin\Debug\Resources\bundles\FileDialog.txt
@@ -150,3 +151,68 @@ C:\Users\Stuart\Documents\Programming\Battleships\BattleShips C# Initial\obj\x86
 C:\Users\Stuart\Documents\Programming\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
 C:\Users\Stuart\Documents\Programming\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGame.exe
 C:\Users\Stuart\Documents\Programming\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGame.pdb
+=======
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGame.exe
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGame.pdb
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\SwinGame.dll
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\animations\splash.txt
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\animations\startup.txt
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\bundles\FileDialog.txt
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\bundles\splash.txt
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\fonts\arial.ttf
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\fonts\cour.ttf
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\fonts\ffaccess.ttf
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\highscores.txt
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\deploy.jpg
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\deploy_button_hl.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\deploy_dir_button_horiz.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\deploy_dir_button_vert.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\deploy_play_button.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\deploy_randomize_button.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\discover.jpg
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\explosion.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\fdFile.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\fdFolder.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\FileDialog_Active.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\FileDialog_Background.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\loader_empty.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\loader_full.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\main_page.jpg
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_1.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_2.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_3.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_4.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_5.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_1.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_2.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_3.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_4.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_5.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\splash.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\SplashBack.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\Swinburne.jpg
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\SwinGameAni.jpg
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\SwinGameAni.png
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\panels\FileDialog.txt
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\error.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\hit.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\horrordrone.mp3
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\lose.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\sink.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\SwinGameStart.ogg
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\watershot.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\winner.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\SwinGame.icns
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\SwinGame.ico
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\MyGame.exe.config
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\MyGame.exe
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\MyGame.pdb
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+>>>>>>> 76a306285f134e92f5a8cdb5a8c7a0658facebb8
