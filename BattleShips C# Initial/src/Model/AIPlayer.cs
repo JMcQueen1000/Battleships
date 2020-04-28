@@ -168,16 +168,16 @@ public abstract class AIPlayer : Player
     ///     ''' </summary>
     private void Delay()
     {
-        int i;
-        for (i = 0; i <= 150; i++)
-        {
+        //int i;
+        //for (i = 0; i <= 150; i++)
+        //{
             // Dont delay if window is closed
-            if (SwinGame.WindowCloseRequested()) return;
+           // if (SwinGame.WindowCloseRequested()) return;
 
-            SwinGame.Delay(5);
-            SwinGame.ProcessEvents();
-            SwinGame.RefreshScreen();
-        }
+            ///SwinGame.Delay(5);
+            //SwinGame.ProcessEvents();
+           // SwinGame.RefreshScreen();
+        //}
     }
 }
 
