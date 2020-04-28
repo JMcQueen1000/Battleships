@@ -40,8 +40,20 @@ public static class GameResources
         int i;
         for (i = 1; i <= 5; i++)
         {
-            NewImage("ShipLR" + i, "ship_deploy_horiz_" + i + ".png");
-            NewImage("ShipUD" + i, "ship_deploy_vert_" + i + ".png");
+            int rnd = new Random().Next(0, 1);
+            if (rnd == 1)
+            {
+                NewImage("ShipLR" + i, "ship_deploy_horiz_" + i + ".png");
+                NewImage("ShipUD" + i, "ship_deploy_vert_" + i + ".png");
+            }
+            else
+            {
+                i = (i + 5);
+                NewImage("ShipLR" + (i - 5), "ship_deploy_horiz_" + i + ".png");
+                NewImage("ShipUD" + (i - 5), "ship_deploy_vert_" + i + ".png");
+                i = (i - 5);
+            }
+            
         }
 
         // Explosions
