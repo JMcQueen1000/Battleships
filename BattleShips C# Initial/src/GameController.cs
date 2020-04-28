@@ -95,7 +95,7 @@ public static class GameController
         {
             case AIOption.Medium:
                 {
-                    _ai = new AIMediumPlayer(_theGame);
+                    _ai = new AIEasyPlayer(_theGame);
                     break;
                 }
 

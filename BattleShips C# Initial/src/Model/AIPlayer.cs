@@ -135,7 +135,10 @@ public abstract class AIPlayer : Player
     ///     ''' <param name="result">The result of the shot</param>
     ///     ''' <param name="row">the row shot</param>
     ///     ''' <param name="col">the column shot</param>
-    protected abstract void ProcessShot(int row, int col, AttackResult result);
+    protected virtual void ProcessShot(int row, int col, AttackResult result)
+    {
+
+    }
 
     /// <summary>
     ///     ''' The AI takes its attacks until its go is over.
