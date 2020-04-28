@@ -38,22 +38,18 @@ public static class GameResources
 
         // Ships
         int i;
+        
         for (i = 1; i <= 5; i++)
         {
-            int rnd = new Random().Next(0, 1);
+            int rnd = new Random().Next(0, 3);
+            //int rnd = 1;
+            string str = "";
             if (rnd == 1)
             {
-                NewImage("ShipLR" + i, "ship_deploy_horiz_" + i + ".png");
-                NewImage("ShipUD" + i, "ship_deploy_vert_" + i + ".png");
+                str = "C";
             }
-            else
-            {
-                i = (i + 5);
-                NewImage("ShipLR" + (i - 5), "ship_deploy_horiz_" + i + ".png");
-                NewImage("ShipUD" + (i - 5), "ship_deploy_vert_" + i + ".png");
-                i = (i - 5);
-            }
-            
+            NewImage("ShipLR" + i, "ship_deploy_horiz" + str + "_" + i + ".png");
+            NewImage("ShipUD" + i, "ship_deploy_vert" + str + "_" + i + ".png");
         }
 
         // Explosions
