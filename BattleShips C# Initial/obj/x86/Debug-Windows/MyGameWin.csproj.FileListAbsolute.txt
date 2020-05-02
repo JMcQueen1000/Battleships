@@ -216,3 +216,30 @@ C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\MyGame.exe
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\MyGame.pdb
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
 >>>>>>> 76a306285f134e92f5a8cdb5a8c7a0658facebb8
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horizC_1.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horizC_2.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horizC_3.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horizC_4.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horizC_5.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_10.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_6.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_7.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_8.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_horiz_9.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vertC_1.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vertC_2.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vertC_3.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vertC_4.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vertC_5.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_10.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_6.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_7.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_8.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\images\ship_deploy_vert_9.png
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\gotcha.wav
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\heh.wav
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\horrordrone.wav
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\intro.wav
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\lost.wav
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\ohno.wav
+C:\Users\Jayden McQueen\Documents\Swinburne Semester 1 2020\Project Development 1 - Tools and Practices\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\quack.wav

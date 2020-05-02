@@ -41,10 +41,12 @@ public static class GameResources
         
         for (i = 1; i <= 5; i++)
         {
-            int rnd = new Random().Next(0, 3);
+            Random rnd = new Random();
+            int rand = rnd.Next(2);
+
             //int rnd = 1;
             string str = "";
-            if (rnd == 1)
+            if (rand == 1)
             {
                 str = "C";
             }
