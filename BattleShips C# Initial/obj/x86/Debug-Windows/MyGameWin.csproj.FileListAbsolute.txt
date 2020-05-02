@@ -137,7 +137,6 @@ C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\i
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\panels\FileDialog.txt
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\error.wav
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\hit.wav
-C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\horrordrone.mp3
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\lose.wav
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\sink.wav
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\SwinGameStart.ogg
@@ -150,3 +149,11 @@ C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\MyGame.exe.
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\MyGame.exe
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\MyGame.pdb
 C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\heh.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\horrordrone.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\intro.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\gotcha.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\LOSE.mp3
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\lost.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\ohno.wav
+C:\School\2020\Team Dev\Battleships\BattleShips C# Initial\bin\Debug\Resources\sounds\quack.wav

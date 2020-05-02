@@ -187,7 +187,24 @@ public static class GameController
             case ResultOfAttack.Destroyed:
                 {
                     PlayHitSequence(result.Row, result.Column, isHuman);
-                    Audio.PlaySoundEffect(GameResources.GameSound("Sink"));
+                    switch (result.Ship.Name)
+                    {
+                        case ("Tug"):
+                            Audio.PlaySoundEffect(GameResources.GameSound("Sink"));
+                            break;
+                        case ("Submarine"):
+                            Audio.PlaySoundEffect(GameResources.GameSound("Sink1"));
+                            break;
+                        case ("Destroyer"):
+                            Audio.PlaySoundEffect(GameResources.GameSound("Sink2"));
+                            break;
+                        case ("Battleship"):
+                            Audio.PlaySoundEffect(GameResources.GameSound("Sink3"));
+                            break;
+                        case ("Aircraft Carrier"):
+                            Audio.PlaySoundEffect(GameResources.GameSound("Sink4"));
+                            break;
+                    }
                     break;
                 }
 

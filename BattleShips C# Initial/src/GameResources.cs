@@ -54,15 +54,19 @@ public static class GameResources
         NewSound("Error", "error.wav");
         NewSound("Hit", "hit.wav");
         NewSound("Sink", "sink.wav");
+        NewSound("Sink1", "ohno.wav");
+        NewSound("Sink2", "quack.wav");
+        NewSound("Sink3", "gotcha.wav");
+        NewSound("Sink4", "intro.wav");
         //NewSound("Siren", "siren.wav");
-        NewSound("Miss", "watershot.wav");
+        NewSound("Miss", "heh.wav");
         NewSound("Winner", "winner.wav");
-        NewSound("Lose", "lose.wav");
+        NewSound("Lose", "lost.wav");
     }
 
     private static void LoadMusic()
     {
-        NewMusic("Background", "horrordrone.mp3");
+        NewMusic("Background", "horrordrone.wav");
     }
 
     /// <summary>
