@@ -58,33 +58,26 @@ static class HighScoreController
     ///     ''' 
     ///     ''' Where NNN is the name and SSS is the score
     ///     ''' </remarks>
+       // private static List<Score> _scores = new List<Score>();
     private static void LoadScores()
     {
-        string filename;
-        filename = SwinGame.PathToResource("highscores.txt");
+        string filename = SwinGame.PathToResource("highscores.txt");
+        StreamReader input = new StreamReader(filename);
 
-        StreamReader input;
-        input = new StreamReader(filename);
-
-        // Read in the # of scores
-        int numScores;
-        numScores = Convert.ToInt32(input.ReadLine());
+        // Read in the # of scores:
+        int numScores = Convert.ToInt32(input.ReadLine());
 
         _Scores.Clear();
-
-        int i;
-
-        for (i = 1; i <= numScores; i++)
+        for (int i = 1; (i <= numScores); i++)
         {
+            string line = input.ReadLine();
+
             Score s;
-            string line;
-
-            line = input.ReadLine();
-
             s.Name = line.Substring(0, NAME_WIDTH);
             s.Value = Convert.ToInt32(line.Substring(NAME_WIDTH));
             _Scores.Add(s);
         }
+
         input.Close();
     }
 

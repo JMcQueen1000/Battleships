@@ -135,7 +135,10 @@ public abstract class AIPlayer : Player
     ///     ''' <param name="result">The result of the shot</param>
     ///     ''' <param name="row">the row shot</param>
     ///     ''' <param name="col">the column shot</param>
-    protected abstract void ProcessShot(int row, int col, AttackResult result);
+    protected virtual void ProcessShot(int row, int col, AttackResult result)
+    {
+
+    }
 
     /// <summary>
     ///     ''' The AI takes its attacks until its go is over.
@@ -165,16 +168,16 @@ public abstract class AIPlayer : Player
     ///     ''' </summary>
     private void Delay()
     {
-        int i;
-        for (i = 0; i <= 150; i++)
-        {
+        //int i;
+        //for (i = 0; i <= 150; i++)
+        //{
             // Dont delay if window is closed
-            if (SwinGame.WindowCloseRequested()) return;
+           // if (SwinGame.WindowCloseRequested()) return;
 
-            SwinGame.Delay(5);
-            SwinGame.ProcessEvents();
-            SwinGame.RefreshScreen();
-        }
+            ///SwinGame.Delay(5);
+            //SwinGame.ProcessEvents();
+           // SwinGame.RefreshScreen();
+        //}
     }
 }
 

@@ -79,7 +79,13 @@ static class DeploymentController
             }
             else if (UtilityFunctions.IsMouseInRectangle(UP_DOWN_BUTTON_LEFT, TOP_BUTTONS_TOP, DIR_BUTTONS_WIDTH, TOP_BUTTONS_HEIGHT))
             {
-                _currentDirection = Direction.LeftRight;
+                //OLD CODE - caused functional error
+                // _currentDirection = Direction.LeftRight;
+
+
+                //Fixed functional issue that incorrectly changed the ship orientation
+                //NEW CODE THAT WORKS - JAYDEN
+                _currentDirection = Direction.UpDown;
 
             }
             else if (UtilityFunctions.IsMouseInRectangle(LEFT_RIGHT_BUTTON_LEFT, TOP_BUTTONS_TOP, DIR_BUTTONS_WIDTH, TOP_BUTTONS_HEIGHT))
@@ -111,7 +117,7 @@ static class DeploymentController
 
         // Calculate the row/col clicked
         int row, col;
-        row = Convert.ToInt32(Math.Floor((mouse.Y) / (double)(UtilityFunctions.CELL_HEIGHT + UtilityFunctions.CELL_GAP)));
+        row = Convert.ToInt32(Math.Floor((mouse.Y - UtilityFunctions.FIELD_TOP) / (double)(UtilityFunctions.CELL_HEIGHT + UtilityFunctions.CELL_GAP)));
         col = Convert.ToInt32(Math.Floor((mouse.X - UtilityFunctions.FIELD_LEFT) / (double)(UtilityFunctions.CELL_WIDTH + UtilityFunctions.CELL_GAP)));
 
         if (row >= 0 & row < GameController.HumanPlayer.PlayerGrid.Height)
@@ -178,7 +184,7 @@ static class DeploymentController
         {
             SwinGame.DrawBitmap(GameResources.GameImage("PlayButton"), PLAY_BUTTON_LEFT, TOP_BUTTONS_TOP);
             //SwinGame.FillRectangle(Color.LightBlue, PLAY_BUTTON_LEFT, PLAY_BUTTON_TOP, PLAY_BUTTON_WIDTH, PLAY_BUTTON_HEIGHT);
-            SwinGame.DrawText("PLAY", Color.White, GameResources.GameFont("Courier"), PLAY_BUTTON_LEFT + TEXT_OFFSET, TOP_BUTTONS_TOP);
+            SwinGame.DrawText("", Color.Black, GameResources.GameFont("Courier"), PLAY_BUTTON_LEFT + TEXT_OFFSET, TOP_BUTTONS_TOP);
         }
 
         SwinGame.DrawBitmap(GameResources.GameImage("RandomButton"), RANDOM_BUTTON_LEFT, TOP_BUTTONS_TOP);
