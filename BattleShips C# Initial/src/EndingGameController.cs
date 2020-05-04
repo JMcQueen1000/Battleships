@@ -46,7 +46,7 @@ static class EndingGameController
         //takes you back to the main menu, or goes to the high scores if you got a high score.
         SwinGame.ClearScreen();
         SwinGame.DrawText(whatShouldIPrint, Color.Black, Color.Transparent, GameResources.GameFont("ArialLarge"), FontAlignment.AlignCenter, toDraw);
-        SwinGame.DrawText("Play Again", Color.Black, GameResources.GameFont("Courier"), 325, 350);
+        SwinGame.DrawText("Play Again", Color.Black, GameResources.GameFont("Courier"), 320, 350);
         SwinGame.DrawText("Continue", Color.Black, GameResources.GameFont("Courier"), 420, 350);
         Rectangle play = new Rectangle();
         Rectangle cont = new Rectangle();
